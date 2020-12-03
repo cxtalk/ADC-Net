@@ -1,6 +1,6 @@
 # MARD-Net: Multi-Scale Attentive Residual Dense Network for Single Image Rain Removal
 
-[Paper Download](https://cxtalk.github.io/files/ACCV2020.pdf)
+[Paper Download](https://openaccess.thecvf.com/content/ACCV2020/html/Chen_Multi-scale_Attentive_Residual_Dense_Network_for_Single_Image_Rain_Removal_ACCV_2020_paper.html)
 
 [Xiang Chen](https://cxtalk.github.io/), [Yufeng Huang](https://dzx.sau.edu.cn/info/1031/1169.htm) and Lei Xu
 
@@ -24,14 +24,12 @@ Please download the following datasets:
 * Rain12 [[dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)]
 
 ## Setup
-Please download this project through 'git' command.
 ```
 $ git clone https://github.com/cxtalk/MARD-Net.git
 $ cd config
 ```  
 
 ## Training
-After you download the above datasets, you can perform the following operations to train:
 ```
 $ python train.py
 ```
@@ -44,15 +42,16 @@ $ python test.py
 
 ## Citation
 ```
-@inproceedings{Chen_accv2020,
+@inproceedings{Chen_2020_ACCV,
 	author    = {Xiang, Chen and Yufeng, Huang and Lei, Xu},
 	title     = {Multi-Scale Attentive Residual Dense Network for Single Image Rain Removal},
-	booktitle = {Asian Conference on Computer Vision (ACCV)},
+	booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+	month     = {November},
 	year      = {2020},
 }
 ```
 
 ## Contact
 
-If you are interested in our work or have any questions, please directly contact my Github.
+If you are interested in our work or have any questions, please directly contact my github.
 Email: cx@lowlevelcv.com
