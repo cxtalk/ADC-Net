@@ -36,5 +36,4 @@ Please download the following datasets:
 
 ## Contact
 
-If you are interested in our work or have any questions, please directly contact my github.
-Email: xchen@kupixel.com
+If you are interested in our work or have any questions, please directly contact me. Email: xchen@kupixel.com
