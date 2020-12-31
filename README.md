@@ -54,4 +54,4 @@ $ python test.py
 ## Contact
 
 If you are interested in our work or have any questions, please directly contact my github.
-Email: cx@lowlevelcv.com
+Email: xchen@kupixel.com
