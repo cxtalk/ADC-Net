@@ -23,23 +23,6 @@ Please download the following datasets:
 * Rain1400 [[dataset](https://xueyangfu.github.io/projects/cvpr2017.html)]
 * Rain12 [[dataset](http://yu-li.github.io/paper/li_cvpr16_rain.zip)]
 
-## Setup
-```
-$ git clone https://github.com/cxtalk/MARD-Net.git
-$ cd config
-```  
-
-## Training
-```
-$ python train.py
-```
-
-## Testing
-```
-$ python test.py
-``` 
-
-
 ## Citation
 ```
 @inproceedings{Chen_2020_ACCV,
